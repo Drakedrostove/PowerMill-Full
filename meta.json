@@ -1,0 +1,23 @@
+{
+  "repo": "powermill-full",
+  "product": "PowerMill Full",
+  "kind": "cad",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "engineering-cad",
+  "topics": [
+    "powermill",
+    "powermill-windows",
+    "engineering-cad-desktop",
+    "how-to-install-powermill",
+    "powermill-desktop-package",
+    "powermill-workspace",
+    "powermill-pro-tools",
+    "powermill-suite",
+    "zentool-powermill",
+    "powermill-tool-9"
+  ],
+  "site": "zentool.art"
+}
